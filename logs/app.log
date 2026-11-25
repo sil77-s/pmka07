@@ -1,0 +1,41 @@
+2026-11-25 23:24:20 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:24:20 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:24:20 [INFO] Успешно завершено
+2026-11-25 23:24:31 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:24:31 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:24:31 [INFO] Успешно завершено
+2026-11-25 23:26:39 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1044 (42000): Access denied for user 'readonly'@'localhost' to database 'pm07_v03_error'
+2026-11-25 23:26:39 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:26:39 [INFO] Успешно завершено
+2026-11-25 23:28:52 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1044 (42000): Access denied for user 'readonly'@'localhost' to database 'pm07_v03_error'
+2026-11-25 23:28:52 [ERROR] Ошибка выполнения, код: 1
+2026-11-25 23:29:42 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:29:42 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:29:42 [INFO] Успешно завершено
+2026-11-25 23:31:01 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:31:01 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:31:01 [INFO] Успешно завершено
+2026-11-25 23:32:01 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:32:01 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:32:01 [INFO] Успешно завершено
+2026-11-25 23:33:01 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:33:01 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:33:01 [INFO] Успешно завершено
+2026-11-25 23:34:01 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:34:01 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:34:01 [INFO] Успешно завершено
+2026-11-25 23:35:01 [INFO] === Старт скрипта ===
+mysql: [Warning] Using a password on the command line interface can be insecure.
+2026-11-25 23:35:01 [INFO] report=/home/silvia/pm07/out/daily_stats.txt
+2026-11-25 23:35:01 [INFO] Успешно завершено

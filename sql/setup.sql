@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS pm07_v03;
+
+CREATE USER IF NOT EXISTS 'admin'@'localhost' IDENTIFIED BY '2345';
+CREATE USER IF NOT EXISTS 'app_user'@'localhost' IDENTIFIED BY '2346';
+CREATE USER IF NOT EXISTS 'readonly'@'localhost' IDENTIFIED BY '2347';
+
+GRANT ALL PRIVILEGES ON pm07_v03.* TO 'admin'@'localhost';
+GRANT SELECT, INSERT, UPDATE, DELETE ON pm07_v03.* TO 'app_user'@'localhost';
+GRANT SELECT ON pm07_v03.* TO 'readonly'@'localhost';
+
+FLUSH PRIVILEGES;
