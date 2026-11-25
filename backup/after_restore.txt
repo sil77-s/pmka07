@@ -1,0 +1,4 @@
+patients	COUNT(*)	SUM(id)	SUM(amount)
+patients	4	10	100.00
+doctors	4	10	100.00
+appointments	4	10	100.00
